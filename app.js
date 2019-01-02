@@ -1,3 +1,14 @@
+/*
+Number of dependencies (50):
+$ npm ls --parseable | wc
+
+Number of lines of code in the app and its all dependencies (50779):
+$ find . -name '*.js' | xargs wc -l
+
+List of licenses in all depencies of the project (6/7):
+$ npx license-checker --summary
+*/
+
 const Twitter = require('twitter');
 
 const client = new Twitter({
@@ -5,17 +16,6 @@ const client = new Twitter({
   consumer_secret: process.env.CONSUMER_SECRET,
   bearer_token: process.env.BEARER_TOKEN
 });
-
-/*
-Number of dependencies:
-$ npm ls --parseable | wc
-
-Number of lines of code of the app and all dependencies:
-$ find . -name '*.php' | xargs wc -l
-
-List 
-
-*/
 
 async function getTweets(q) {
   const query = {
