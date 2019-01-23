@@ -82,5 +82,8 @@ typings/
 # VSCode
 .vscode/
 
+.DS_Store
+
 presentation.pptx
 presentation.zip
+docs/backup-remove-me
