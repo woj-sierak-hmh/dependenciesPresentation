@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ds:datastoreItem ds:itemID="{D02ADAF3-FE5F-406F-B265-6E8ACFD7DD66}" xmlns:ds="http://schemas.openxmlformats.org/officeDocument/2006/customXml"><ds:schemaRefs><ds:schemaRef ds:uri="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms"/></ds:schemaRefs></ds:datastoreItem>
+<ds:datastoreItem ds:itemID="{4A31732D-FC51-47D7-AF06-475155EA1E2F}" xmlns:ds="http://schemas.openxmlformats.org/officeDocument/2006/customXml"><ds:schemaRefs><ds:schemaRef ds:uri="http://schemas.microsoft.com/office/2006/metadata/properties"/><ds:schemaRef ds:uri="http://schemas.microsoft.com/office/infopath/2007/PartnerControls"/><ds:schemaRef ds:uri="http://schemas.microsoft.com/sharepoint/v3"/></ds:schemaRefs></ds:datastoreItem>
